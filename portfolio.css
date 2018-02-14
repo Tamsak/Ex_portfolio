@@ -1,0 +1,129 @@
+{
+    margin:0px;
+    padding:0px;
+}
+
+#wrapper {
+    background-color:rgb(104, 78, 104);
+    width: 980px;
+    Height:0 auto;
+    overflow: scroll;
+    background:repeating-linear-gradient(rgb(34, 25, 34),rgb(104, 78, 104));
+    
+}
+#header{
+    background-color:rgb(231, 232, 233);
+    width:940px;
+    Height:70px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+h1{
+    float: left;
+    font-family: "comic sans MS";
+    line-height: 10px;
+}
+h2{
+    float: right;
+    font-family:Arial;
+}
+#image1{
+    width:320x;
+    height:270px;
+    border:5px;
+    margin:25px 20px 25px 20px;
+    border-color: gray;
+    border-style: solid;
+}
+#about{
+  width:460px;
+  height:280px;
+  margin:25px 25px 25px 0px;
+  background-color: rgba(240, 242, 248, 0.938); 
+  float: right;
+   
+}
+h3{
+    background:repeating-linear-gradient(rgba(213, 219, 219, 0.829),gray);
+    margin:0px;
+    color: white;
+    padding: 8px;
+    font-family: arial;
+}
+p{
+    padding:0px 10px 10px 15px;
+    font-family: arial;
+    font-size: 14px;
+   
+}
+a{
+    padding-left: 10px;
+    color:black;
+    font-family: arial;
+}
+
+.a{
+    background-color: rgba(240, 242, 248, 0.938); 
+    width:290px;
+    Height:400px;
+    margin-left:23px;
+    float: left;
+}
+.technologies{
+    background-color: rgba(240, 242, 248, 0.938); 
+    width:290px;
+    height:190px;
+    margin-left:23px;
+    float: left;
+}
+h4{
+    background:repeating-linear-gradient(rgba(213, 219, 219, 0.829),gray);
+    margin:0px;
+    color: white;
+    padding: 8px;
+    font-family: arial; 
+}
+.image2{
+    width:290px;
+    height:150px;
+}
+.image3{
+    padding:8px;
+    width:35px;
+    height:35px;
+}
+.button{
+        display: block;
+        padding:3px;
+        margin-right:100px;
+        margin-left:90px;
+        font: bold 12px Arial;
+        text-decoration: none;
+        text-align: center;
+        background-color: rgb(66, 146, 120);
+        color: white; 
+        border-top: 1px solid black;
+        border-left: 1px solid black;
+        border-radius: 5px;
+        box-shadow: 2px 2px rgb(141, 141, 141);
+}
+#a1{
+    background-color:rgb(231, 232, 233);
+    width: 980px;
+    height:80px;
+    float: left;
+    margin-top:20px; 
+}
+.b{
+    display:inline;
+    width:15px;
+    Height:15px;
+    font-style:italic;
+}
+
+
+
+
+
+
